@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:joel-hamill" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:revert-136-fix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:rspurgeon" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89f3a8ae-e4ba-4d00-a679-64d8f41bbee5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/model/TickNewsTransformationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-springboot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../java-springboot/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/ConsumerAvroExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/ConsumerAvroExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/ConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/ProducerAvroExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/ProducerAvroExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/ProducerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/ProducerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/StreamsAvroExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud/StreamsAvroExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nMZFoLVGUmKt2bBKuCIcfk3TkS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="aws" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/io/confluent/examples/clients/cloud" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProducerExample">
+    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="POLYGON_API_KEY" value="x36Q_BCy_H8h_LwKhOYyDQ4wn0v7eWrA" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="io.confluent.examples.clients.cloud.ConsumerExample" />
+      <module name="clients-example" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/src/main/resources/application.properties stocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.confluent.examples.clients.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="POLYGON_API_KEY" value="x36Q_BCy_H8h_LwKhOYyDQ4wn0v7eWrA" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="io.confluent.examples.clients.cloud.ProducerExample" />
+      <module name="clients-example" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/src/main/resources/application.properties stocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.confluent.examples.clients.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProducerExample" />
+      <item itemvalue="Application.ConsumerExample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProducerExample" />
+        <item itemvalue="Application.ConsumerExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89f3a8ae-e4ba-4d00-a679-64d8f41bbee5" name="Default Changelist" comment="" />
+      <created>1611201818162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611201818162</updated>
+      <workItem from="1611201823192" duration="10345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="286" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1611206801653">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state x="714" y="286" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.0.1366.768/40.0.1880.1080@40.0.1880.1080" timestamp="1611206801653" />
+    <state x="439" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611207883141">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state x="439" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1366.768/40.0.1880.1080@40.0.1880.1080" timestamp="1611207883141" />
+    <state x="763" y="236" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1611202596082">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state x="763" y="236" key="#com.intellij.ide.macro.MacrosDialog/1920.0.1366.768/40.0.1880.1080@40.0.1880.1080" timestamp="1611202596082" />
+    <state x="789" y="217" key="#com.intellij.ide.util.MemberChooser" timestamp="1611215806548">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state x="789" y="217" key="#com.intellij.ide.util.MemberChooser/1920.0.1366.768/40.0.1880.1080@40.0.1880.1080" timestamp="1611215806548" />
+    <state width="1834" height="283" key="GridCell.Tab.0.bottom" timestamp="1611216375523">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state width="1834" height="283" key="GridCell.Tab.0.bottom/1920.0.1366.768/40.0.1880.1080@40.0.1880.1080" timestamp="1611216375523" />
+    <state width="1834" height="283" key="GridCell.Tab.0.center" timestamp="1611216375523">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state width="1834" height="283" key="GridCell.Tab.0.center/1920.0.1366.768/40.0.1880.1080@40.0.1880.1080" timestamp="1611216375523" />
+    <state width="1834" height="283" key="GridCell.Tab.0.left" timestamp="1611216375523">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state width="1834" height="283" key="GridCell.Tab.0.left/1920.0.1366.768/40.0.1880.1080@40.0.1880.1080" timestamp="1611216375523" />
+    <state width="1834" height="283" key="GridCell.Tab.0.right" timestamp="1611216375523">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state width="1834" height="283" key="GridCell.Tab.0.right/1920.0.1366.768/40.0.1880.1080@40.0.1880.1080" timestamp="1611216375523" />
+  </component>
+</project>
